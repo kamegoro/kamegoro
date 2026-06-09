@@ -1,24 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kamegoro/kamegoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com?user=kamegoro&theme=dracula)](https://github.com/kamegoro)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/kamegoro">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kamegoro&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/kamegoro">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamegoro&layout=compact&theme=dracula" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamegoro&layout=compact&theme=dracula)](https://github.com/kamegoro)
